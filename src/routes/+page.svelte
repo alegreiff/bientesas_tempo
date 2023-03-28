@@ -1,2 +1,23 @@
-<h1>Welcome to SvelteKit</h1>
-<p>Visit <a href="https://kit.svelte.dev">kit.svelte.dev</a> to read the documentation</p>
+<script lang="ts">
+
+    
+
+</script>
+<div>
+    <img src="/bientesas.png" alt="Bien Tesas">
+</div>
+
+<style>
+div {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #faf0f0;
+  height: 100vh;
+  overflow: none;
+}
+img {
+    max-width: 100%;
+    margin:0 auto;
+}
+</style>
