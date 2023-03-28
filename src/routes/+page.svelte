@@ -4,7 +4,10 @@
 
 </script>
 <div>
-    <img src="/bientesas.png" alt="Bien Tesas">
+    <a href="https://www.instagram.com/bien_tesas">
+        <img src="/bientesas.png" alt="Bien Tesas">
+    </a>
+    
 </div>
 
 <style>
